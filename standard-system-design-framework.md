@@ -828,5 +828,13 @@ With these, you can design any system by:
 This approach has scaled from startups to companies handling billions of users.
 
 ---
-
+Design a monitoring system
+Design Google Docs
+Design a ticket reservation system.
+Design a system that solves a problem in your domain, but not at web scale.
+Design the Facebook post privacy functionality.
+Design a translation system for Meta apps. 
+Design an auction system like eBay.
+Design a logger system for a pool of apps.
+How would you design a service like Instagram? Both from a product perspective, and from a system design perspective.
 *Last Updated: 2024 | Target Audience: Principal/Lead Engineers at Microsoft and similar enterprises*
